@@ -17,7 +17,7 @@ const AvatarModal = () => {
             animate={{ opacity: 1, scale: 1, y: 0 }}
             exit={{ opacity: 0, scale: 0.95, y: 10 }}
             transition={{ type: "spring", stiffness: 380, damping: 28 }}
-            className="absolute right-0 top-14 w-56 bg-zinc-950/80 border border-zinc-900/80 rounded-2xl p-2.5 backdrop-blur-2xl shadow-[0_20px_40px_-15px_rgba(0,0,0,0.7)] flex flex-col z-50 text-left"
+            className="absolute right-0 top-14 w-56 bg-zinc-950 border border-zinc-900 rounded-2xl p-2.5 shadow-[0_25px_50px_-12px_rgba(0,0,0,0.8)] flex flex-col z-50 text-left"
         >
             <div className="absolute top-0 left-4 right-4 h-[1px] bg-gradient-to-r from-transparent via-zinc-800 to-transparent" />
 

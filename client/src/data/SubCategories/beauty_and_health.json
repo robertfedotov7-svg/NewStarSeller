@@ -1,0 +1,86 @@
+[
+  {
+    "id": "HairCare",
+    "name": "Уход за волосами",
+    "name_en": "Hair Care",
+    "name_zh": "头发护理"
+  },
+  {
+    "id": "FaceCare",
+    "name": "Уход за лицом",
+    "name_en": "Face Care",
+    "name_zh": "面部护理"
+  },
+  {
+    "id": "BodyCare",
+    "name": "Уход за телом",
+    "name_en": "Body Care",
+    "name_zh": "身体护理"
+  },
+  {
+    "id": "Makeup",
+    "name": "Макияж",
+    "name_en": "Makeup",
+    "name_zh": "彩妆"
+  },
+  {
+    "id": "ManicureAndPedicure",
+    "name": "Маникюр и педикюр",
+    "name_en": "Manicure and Pedicure",
+    "name_zh": "美甲与美足"
+  },
+  {
+    "id": "Perfumerie",
+    "name": "Парфюмерия",
+    "name_en": "Perfume",
+    "name_zh": "香水"
+  },
+  {
+    "id": "SunCareAndTanning",
+    "name": "Загар и защита от солнца",
+    "name_en": "Sun Care and Tanning",
+    "name_zh": "防晒与日晒护理"
+  },
+  {
+    "id": "MensCosmetics",
+    "name": "Мужская косметика",
+    "name_en": "Men's Grooming",
+    "name_zh": "男士护肤与彩妆"
+  },
+  {
+    "id": "KidsCosmeticsAndPerfumerie",
+    "name": "Детская косметика и парфюмерия",
+    "name_en": "Children's Cosmetics and Perfume",
+    "name_zh": "儿童化妆品与香水"
+  },
+  {
+    "id": "PregnantAndBreastfeeding",
+    "name": "Беременным и кормящим",
+    "name_en": "Maternity and Nursing Care",
+    "name_zh": "孕产妇护理"
+  },
+  {
+    "id": "HardwareCosmetologyAndMassage",
+    "name": "Аппаратная косметология и массаж",
+    "name_en": "Beauty Devices and Massage",
+    "name_zh": "美容仪器与按摩"
+  },
+  {
+    "id": "Aromatherapy",
+    "name": "Ароматерапия",
+    "name_en": "Aromatherapy",
+    "name_zh": "芳香療法"
+  },
+  {
+    "id": "TattooSalonEquipmentAndMaterials",
+    "name": "Оборудование и материалы для тату-салона",
+    "name_en": "Tattoo Salon Equipment and Materials",
+    "name_zh": "纹身店设备与材料"
+  },
+  {
+    "id": "BeautySalonFurnitureAndEquipment",
+    "name": "Мебель и оборудование для салонов красоты",
+    "name_en": "Beauty Salon Furniture and Equipment",
+    "name_zh": "美容院家具与设备"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "id": "CampingAndOutdoorActivities",
+    "name": "Туризм и отдых на природе",
+    "name_en": "Tourism and Outdoor Recreation",
+    "name_zh": "露营与户外休閒"
+  },
+  {
+    "id": "Fishing",
+    "name": "Рыбалка",
+    "name_en": "Fishing",
+    "name_zh": "钓鱼"
+  },
+  {
+    "id": "HuntingGoods",
+    "name": "Товары для охоты",
+    "name_en": "Hunting Supplies",
+    "name_zh": "打猎用品"
+  },
+  {
+    "id": "BoatsAndBoatMotors",
+    "name": "Лодки и лодочные моторы",
+    "name_en": "Boats and Outboard Motors",
+    "name_zh": "船只与船用马达"
+  },
+  {
+    "id": "FishingAndHuntingClothing",
+    "name": "Одежда для рыбалки и охоты",
+    "name_en": "Fishing and Hunting Clothing",
+    "name_zh": "钓鱼与打猎服装"
+  },
+  {
+    "id": "FishingAndHuntingFootwear",
+    "name": "Обувь для рыбалки и охоты",
+    "name_en": "Fishing and Hunting Footwear",
+    "name_zh": "钓鱼与打猎鞋类"
+  },
+  {
+    "id": "TacticalClothingAndAccessories",
+    "name": "Тактическая одежда и аксессуары",
+    "name_en": "Tactical Clothing and Accessories",
+    "name_zh": "战术服装与配件"
+  },
+  {
+    "id": "SurvivalKits",
+    "name": "Наборы для выживания",
+    "name_en": "Survival Kits",
+    "name_zh": "求生套装"
+  }
+]

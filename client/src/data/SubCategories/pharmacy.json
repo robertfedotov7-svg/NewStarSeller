@@ -1,0 +1,104 @@
+[
+  {
+    "id": "Medicines",
+    "name": "Лекарственные средства",
+    "name_en": "Medicines",
+    "name_zh": "药品"
+  },
+  {
+    "id": "VitaminsAndSupplements",
+    "name": "Витамины и БАДы",
+    "name_en": "Vitamins and Supplements",
+    "name_zh": "维生素与膳食补充剂"
+  },
+  {
+    "id": "Parapharmaceuticals",
+    "name": "Парафармацевтика",
+    "name_en": "Parapharmaceuticals",
+    "name_zh": "准药物与药妆"
+  },
+  {
+    "id": "Optics",
+    "name": "Оптика",
+    "name_en": "Optics",
+    "name_zh": "眼镜与光学产品"
+  },
+  {
+    "id": "MedicalDevices",
+    "name": "Медицинские приборы",
+    "name_en": "Medical Devices",
+    "name_zh": "医疗仪器"
+  },
+  {
+    "id": "MedicalEquipment",
+    "name": "Медицинское оборудование",
+    "name_en": "Medical Equipment",
+    "name_zh": "医疗设备"
+  },
+  {
+    "id": "AccessoriesAndComponents",
+    "name": "Аксессуары и комплектующие",
+    "name_en": "Accessories and Components",
+    "name_zh": "配件与部件"
+  },
+  {
+    "id": "MedicalProductsAndConsumables",
+    "name": "Медицинские изделия и расходные материалы",
+    "name_en": "Medical Products and Consumables",
+    "name_zh": "医疗医用制品与医用耗材"
+  },
+  {
+    "id": "MedicalClothingAndTextiles",
+    "name": "Одежда и текстиль медицинские",
+    "name_en": "Medical Clothing and Textiles",
+    "name_zh": "医用服装与纺织品"
+  },
+  {
+    "id": "MedicalInstruments",
+    "name": "Медицинские инструменты",
+    "name_en": "Medical Instruments",
+    "name_zh": "医疗手术工具"
+  },
+  {
+    "id": "DentalProducts",
+    "name": "Товары стоматологические",
+    "name_en": "Dental Products",
+    "name_zh": "口腔牙科用品"
+  },
+  {
+    "id": "HygieneProducts",
+    "name": "Товары для гигиены",
+    "name_en": "Hygiene Products",
+    "name_zh": "卫生护理用品"
+  },
+  {
+    "id": "RehabilitationProducts",
+    "name": "Товары для реабилитации",
+    "name_en": "Rehabilitation Products",
+    "name_zh": "康复护理用品"
+  },
+  {
+    "id": "Orthopedics",
+    "name": "Ортопедия",
+    "name_en": "Orthopedics",
+    "name_zh": "矫形骨科用品"
+  },
+  {
+    "id": "ManualMassagersAndApplicators",
+    "name": "Ручные массажеры и аппликаторы",
+    "name_en": "Manual Massagers and Applicators",
+    "name_zh": "手动按摩器与理疗贴"
+  },
+  {
+    "id": "MedicalFurniture",
+    "name": "Мебель медицинская",
+    "name_en": "Medical Furniture",
+    "name_zh": "医疗家具"
+  },
+  {
+    "id": "AestheticCosmetology",
+    "name": "Эстетическая косметология",
+    "name_en": "Aesthetic Cosmetology",
+    "name_zh": "医学美容轻医美"
+  }
+]

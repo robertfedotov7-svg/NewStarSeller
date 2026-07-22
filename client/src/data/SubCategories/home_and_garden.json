@@ -1,0 +1,86 @@
+[
+  {
+    "id": "TablewareAndKitchenSupplies",
+    "name": "Посуда и кухонные принадлежности",
+    "name_en": "Tableware and Kitchenware",
+    "name_zh": "餐具与厨房用品"
+  },
+  {
+    "id": "Textiles",
+    "name": "Текстиль",
+    "name_en": "Textiles",
+    "name_zh": "家纺织品"
+  },
+  {
+    "id": "Lighting",
+    "name": "Освещение",
+    "name_en": "Lighting",
+    "name_zh": "灯具与照明"
+  },
+  {
+    "id": "DecorAndInterior",
+    "name": "Декор и интерьер",
+    "name_en": "Decor and Interior",
+    "name_zh": "家居装饰与内饰"
+  },
+  {
+    "id": "SummerHouseAndGarden",
+    "name": "Дача и сад",
+    "name_en": "Country House and Garden",
+    "name_zh": "别墅与园艺"
+  },
+  {
+    "id": "FlowersPlantsAndPots",
+    "name": "Цветы, растения и горшки",
+    "name_en": "Flowers, Plants and Pots",
+    "name_zh": "花卉、植物与花盆"
+  },
+  {
+    "id": "HouseholdGoods",
+    "name": "Хозяйственные товары",
+    "name_en": "Household Goods",
+    "name_zh": "生活日用品"
+  },
+  {
+    "id": "StorageSolutions",
+    "name": "Хранение вещей",
+    "name_en": "Storage and Organization",
+    "name_zh": "收纳与整理"
+  },
+  {
+    "id": "BathroomAccessories",
+    "name": "Аксессуары для ванной",
+    "name_en": "Bathroom Accessories",
+    "name_zh": "浴室配件"
+  },
+  {
+    "id": "BathAndSaunaProducts",
+    "name": "Товары для бань и саун",
+    "name_en": "Bath and Sauna Products",
+    "name_zh": "洗浴与桑拿用品"
+  },
+  {
+    "id": "SouvenirsAndGifts",
+    "name": "Сувениры и подарки",
+    "name_en": "Souvenirs and Gifts",
+    "name_zh": "纪念品与 gifts"
+  },
+  {
+    "id": "HolidayGoods",
+    "name": "Товары для праздников",
+    "name_en": "Holiday and Party Supplies",
+    "name_zh": "节日与派对用品"
+  },
+  {
+    "id": "ReligiousItems",
+    "name": "Религиозные предметы",
+    "name_en": "Religious Items",
+    "name_zh": "宗教用品"
+  },
+  {
+    "id": "RitualProducts",
+    "name": "Ритуальные товары",
+    "name_en": "Ritual and Funeral Products",
+    "name_zh": "殡葬与祭祀用品"
+  }
+]

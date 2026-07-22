@@ -7,9 +7,10 @@ User:
 6. country
 
 
+
 Product:
 1. name
-2. category
+2. Category
 3. price in chine
 4. price to cell
 5. raiting
@@ -25,7 +26,7 @@ Season:
 4. high to sell
 5. end
 
-Recomendation:
+Recommendation:
 1. Name
 2. Grades
 3. Risk
@@ -54,5 +55,9 @@ Trends:
 6. сумма
 7. бренд
 
-
+Category:
+1. Name
+2. Season
+3. Holiday
+4. MinPrice
 

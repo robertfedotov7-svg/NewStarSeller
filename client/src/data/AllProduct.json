@@ -1,0 +1,163 @@
+[
+  {
+    "id": "prod_001",
+    "name": "Смартфон iPhone 15 Pro 256GB",
+    "category": "Электроника",
+    "buyPrice": 95000,
+    "sellPrice": 125000,
+    "brand": "Apple",
+    "subcategory": []
+  },
+  {
+    "id": "prod_002",
+    "name": "Беспроводные наушники WH-1000XM5",
+    "category": "Аудио",
+    "buyPrice": 22000,
+    "sellPrice": 34990,
+    "brand": "Sony"
+  },
+  {
+    "id": "prod_003",
+    "name": "Умные часы Galaxy Watch 6",
+    "category": "Электроника",
+    "buyPrice": 15000,
+    "sellPrice": 24500,
+    "brand": "Samsung"
+  },
+  {
+    "id": "prod_004",
+    "name": "Ноутбук MateBook D 16",
+    "category": "Компьютеры",
+    "buyPrice": 52000,
+    "sellPrice": 69990,
+    "brand": "Huawei"
+  },
+  {
+    "id": "prod_005",
+    "name": "Робот-пылесос Omni S10",
+    "category": "Бытовая техника",
+    "buyPrice": 31000,
+    "sellPrice": 45000,
+    "brand": "Xiaomi"
+  },
+  {
+    "id": "prod_006",
+    "name": "Кофемашина Magnifica Start",
+    "category": "Бытовая техника",
+    "buyPrice": 28000,
+    "sellPrice": 42990,
+    "brand": "DeLonghi"
+  },
+  {
+    "id": "prod_007",
+    "name": "Кроссовки Air Max 90",
+    "category": "Обувь",
+    "buyPrice": 6500,
+    "sellPrice": 13990,
+    "brand": "Nike"
+  },
+  {
+    "id": "prod_008",
+    "name": "Спортивный худи Essentials",
+    "category": "Одежда",
+    "buyPrice": 3200,
+    "sellPrice": 7500,
+    "brand": "Adidas"
+  },
+  {
+    "id": "prod_009",
+    "name": "Игровая консоль PlayStation 5 Slim",
+    "category": "Электроника",
+    "buyPrice": 41000,
+    "sellPrice": 56000,
+    "brand": "Sony"
+  },
+  {
+    "id": "prod_010",
+    "name": "Электрическая зубная щетка iO 6",
+    "category": "Красота и здоровье",
+    "buyPrice": 5800,
+    "sellPrice": 11990,
+    "brand": "Oral-B"
+  },
+  {
+    "id": "prod_011",
+    "name": "Планшет iPad Air 2024",
+    "category": "Электроника",
+    "buyPrice": 54000,
+    "sellPrice": 72000,
+    "brand": "Apple"
+  },
+  {
+    "id": "prod_012",
+    "name": "Монитор UltraGear 27\"",
+    "category": "Компьютеры",
+    "buyPrice": 18500,
+    "sellPrice": 27990,
+    "brand": "LG"
+  },
+  {
+    "id": "prod_013",
+    "name": "Фен для волос Supersonic",
+    "category": "Бытовая техника",
+    "buyPrice": 29000,
+    "sellPrice": 44990,
+    "brand": "Dyson"
+  },
+  {
+    "id": "prod_014",
+    "name": "Умная колонка Капсула Нео",
+    "category": "Электроника",
+    "buyPrice": 2100,
+    "sellPrice": 3990,
+    "brand": "VK"
+  },
+  {
+    "id": "prod_015",
+    "name": "Рюкзак Borealis",
+    "category": "Аксессуары",
+    "buyPrice": 4800,
+    "sellPrice": 9500,
+    "brand": "The North Face"
+  },
+  {
+    "id": "prod_016",
+    "name": "Портативная колонка Flip 6",
+    "category": "Аудио",
+    "buyPrice": 6200,
+    "sellPrice": 10490,
+    "brand": "JBL"
+  },
+  {
+    "id": "prod_017",
+    "name": "Фитнес-браслет Smart Band 8",
+    "category": "Электроника",
+    "buyPrice": 1800,
+    "sellPrice": 3490,
+    "brand": "Xiaomi"
+  },
+  {
+    "id": "prod_018",
+    "name": "Мультиварка SkyCooker",
+    "category": "Бытовая техника",
+    "buyPrice": 4500,
+    "sellPrice": 8990,
+    "brand": "Redmond"
+  },
+  {
+    "id": "prod_019",
+    "name": "Экшен-камера HERO12",
+    "category": "Электроника",
+    "buyPrice": 27000,
+    "sellPrice": 39990,
+    "brand": "GoPro"
+  },
+  {
+    "id": "prod_020",
+    "name": "Мужские часы Eco-Drive",
+    "category": "Аксессуары",
+    "buyPrice": 11000,
+    "sellPrice": 19500,
+    "brand": "Citizen"
+  }
+]

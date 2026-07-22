@@ -1,0 +1,92 @@
+[
+  {
+    "id": "PhonesAndSmartwatches",
+    "name": "Телефоны и смарт-часы",
+    "name_en": "Phones and Smartwatches",
+    "name_zh": "手机与智能手表"
+  },
+  {
+    "id": "LaptopsTabletsAndEbooks",
+    "name": "Ноутбуки, планшеты и электронные книги",
+    "name_en": "Laptops, Tablets and E-books",
+    "name_zh": "笔记本电脑、平板与电子书"
+  },
+  {
+    "id": "OpticalDevices",
+    "name": "Оптические приборы",
+    "name_en": "Optical Devices",
+    "name_zh": "光学仪器"
+  },
+  {
+    "id": "HeadphonesAndAudio",
+    "name": "Наушники и аудиотехника",
+    "name_en": "Headphones and Audio Equipment",
+    "name_zh": "耳机与 audio 设备"
+  },
+  {
+    "id": "PcComponents",
+    "name": "Комплектующие для ПК",
+    "name_en": "PC Components",
+    "name_zh": "电脑配件"
+  },
+  {
+    "id": "ComputersAndPeripherals",
+    "name": "Компьютеры и периферия",
+    "name_en": "Computers and Peripherals",
+    "name_zh": "电脑与外设"
+  },
+  {
+    "id": "CamerasAndCamcorders",
+    "name": "Фото и видеокамеры",
+    "name_en": "Cameras and Camcorders",
+    "name_zh": "照相机与摄像机"
+  },
+  {
+    "id": "GamingConsolesAndLaptops",
+    "name": "Игровые приставки и ноутбуки",
+    "name_en": "Gaming Consoles and Laptops",
+    "name_zh": "游戏机与游戏本"
+  },
+  {
+    "id": "OfficeEquipment",
+    "name": "Офисная техника",
+    "name_en": "Office Equipment",
+    "name_zh": "办公设备"
+  },
+  {
+    "id": "DronesAndAccessories",
+    "name": "Квадрокоптеры и аксессуары",
+    "name_en": "Drones and Accessories",
+    "name_zh": "无人机及配件"
+  },
+  {
+    "id": "Navigators",
+    "name": "Навигаторы",
+    "name_en": "Navigators",
+    "name_zh": "导航仪"
+  },
+  {
+    "id": "SmartHome",
+    "name": "Умный дом",
+    "name_en": "Smart Home",
+    "name_zh": "智能家居"
+  },
+  {
+    "id": "TvsAndVideoEquipment",
+    "name": "Телевизоры и видеотехника",
+    "name_en": "TVs and Video Equipment",
+    "name_zh": "电视机与视频设备"
+  },
+  {
+    "id": "SecurityAndSurveillance",
+    "name": "Охранные системы и видеонаблюдение",
+    "name_en": "Security Systems and Surveillance",
+    "name_zh": "安防系统与视频监控"
+  },
+  {
+    "id": "ElectronicsAccessories",
+    "name": "Аксессуары для электроники",
+    "name_en": "Electronics Accessories",
+    "name_zh": "电子产品配件"
+  }
+]

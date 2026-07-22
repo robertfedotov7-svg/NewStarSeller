@@ -1,0 +1,116 @@
+[
+  {
+    "id": "PlayStation",
+    "name": "PlayStation",
+    "name_en": "PlayStation",
+    "name_zh": "PlayStation"
+  },
+  {
+    "id": "Nintendo",
+    "name": "Nintendo",
+    "name_en": "Nintendo",
+    "name_zh": "任天堂"
+  },
+  {
+    "id": "Xbox",
+    "name": "Xbox",
+    "name_en": "Xbox",
+    "name_zh": "Xbox"
+  },
+  {
+    "id": "GamingConsoles",
+    "name": "Игровые приставки",
+    "name_en": "Gaming Consoles",
+    "name_zh": "游戏机"
+  },
+  {
+    "id": "PcGaming",
+    "name": "PC",
+    "name_en": "PC Gaming",
+    "name_zh": "电脑游戏"
+  },
+  {
+    "id": "MobileGaming",
+    "name": "Mobile gaming",
+    "name_en": "Mobile Gaming",
+    "name_zh": "手机游戏"
+  },
+  {
+    "id": "RetroConsoleGames",
+    "name": "Игры для ретро консолей",
+    "name_en": "Retro Console Games",
+    "name_zh": "复古主机游戏"
+  },
+  {
+    "id": "RetroConsoles",
+    "name": "Ретро-консоли",
+    "name_en": "Retro Consoles",
+    "name_zh": "复古游戏机"
+  },
+  {
+    "id": "GameCartridges",
+    "name": "Игровые картриджи",
+    "name_en": "Game Cartridges",
+    "name_zh": "游戏卡带"
+  },
+  {
+    "id": "VideoGameFigures",
+    "name": "Фигурки по видеоиграм",
+    "name_en": "Video Game Figures",
+    "name_zh": "游戏手办与玩偶"
+  },
+  {
+    "id": "GamingHeadphones",
+    "name": "Игровые наушники",
+    "name_en": "Gaming Headphones",
+    "name_zh": "游戏耳机"
+  },
+  {
+    "id": "Gamepads",
+    "name": "Геймпады",
+    "name_en": "Gamepads",
+    "name_zh": "游戏手柄"
+  },
+  {
+    "id": "VrGlasses",
+    "name": "Очки виртуальной реальности",
+    "name_en": "Virtual Reality Glasses",
+    "name_zh": "虚拟现实眼镜"
+  },
+  {
+    "id": "WheelsAndPedals",
+    "name": "Рули и педали",
+    "name_en": "Gaming Wheels and Pedals",
+    "name_zh": "游戏方向盘与踏板"
+  },
+  {
+    "id": "GamingConsoleAccessories",
+    "name": "Аксессуары для игровых приставок",
+    "name_en": "Gaming Console Accessories",
+    "name_zh": "游戏机配件"
+  },
+  {
+    "id": "EsportsAccessories",
+    "name": "Аксессуары для киберспорта",
+    "name_en": "Esports Accessories",
+    "name_zh": "电子竞技配件"
+  },
+  {
+    "id": "BatteriesAndChargers",
+    "name": "Аккумуляторы и зарядки",
+    "name_en": "Batteries and Chargers",
+    "name_zh": "电池与充电器"
+  },
+  {
+    "id": "BagsAndCases",
+    "name": "Сумки и чехлы",
+    "name_en": "Bags and Cases",
+    "name_zh": "收纳包与保护套"
+  },
+  {
+    "id": "GamingConsoleSpareParts",
+    "name": "Запчасти для игровых консолей",
+    "name_en": "Gaming Console Spare Parts",
+    "name_zh": "游戏机维修配件"
+  }
+]

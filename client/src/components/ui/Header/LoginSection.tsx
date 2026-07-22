@@ -24,20 +24,21 @@ const ProfileDropdown = () => {
     if (!user || !user.uid) return null;
 
     return (
-        <div className="relative flex items-center" ref={dropdownRef}>
+        <div className="relative flex items-center z-50" ref={dropdownRef}>
             <button
                 onClick={() => setIsDropdownOpen(!isDropdownOpen)}
-                className="relative w-10 h-10 rounded-full border border-zinc-800 bg-zinc-900 overflow-hidden cursor-pointer focus:outline-none hover:border-zinc-500 transition-colors duration-300 shadow-md group active:scale-95"
+                className="relative w-[48px] h-[48px] rounded-full border border-zinc-800 bg-zinc-900 overflow-hidden cursor-pointer focus:outline-none hover:border-zinc-500 transition-colors duration-300 shadow-md group active:scale-95"
             >
                 <img
-                    src={user.photoURL || "https://tenor.com"}
+                    src={user.photoURL || `https://ui-avatars.com{encodeURIComponent(user.displayName || 'User')}&background=18181b&color=fff`}
                     alt="User Avatar"
                     className="w-full h-full object-cover transition duration-300 group-hover:scale-105"
                 />
             </button>
 
             <AnimatePresence>
-                {isDropdownOpen && <AvatarModal />}
+                {/* Внутри AvatarModal класс z-100 обязательно должен быть заменен на z-50 или удален */}
+                {isDropdownOpen && <AvatarModal/>}
             </AnimatePresence>
         </div>
     );
@@ -72,12 +73,12 @@ const AuthButtons = () => {
             >
                 Log In
             </button>
-            <button
-                onClick={handleAuthAction}
-                className="text-xs uppercase tracking-widest bg-white text-black px-5 py-2.5 rounded-full transition-all duration-300 hover:bg-zinc-200 active:scale-95 cursor-pointer font-bold shadow-sm"
+            <a
+                href="#auth-section"
+                className="text-xs items-center flex uppercase tracking-widest bg-white text-black px-5 py-2.5 rounded-full transition-all duration-300 hover:bg-zinc-200 active:scale-95 cursor-pointer font-bold shadow-sm"
             >
                 Sign Up
-            </button>
+            </a>
         </div>
     );
 };

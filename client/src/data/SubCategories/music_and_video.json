@@ -1,0 +1,20 @@
+[
+  {
+    "id": "Music",
+    "name": "Музыка",
+    "name_en": "Music",
+    "name_zh": "音乐"
+  },
+  {
+    "id": "Video",
+    "name": "Видео",
+    "name_en": "Video",
+    "name_zh": "视频与影音"
+  },
+  {
+    "id": "VinylRecords",
+    "name": "Виниловые пластинки",
+    "name_en": "Vinyl Records",
+    "name_zh": "黑胶唱片"
+  }
+]

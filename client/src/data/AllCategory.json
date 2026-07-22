@@ -1,0 +1,218 @@
+[
+  {
+    "id": "electronics",
+    "name": "Электроника",
+    "season": "autumn/winter/spring/summer",
+    "holiday": ["KnowledgeDay", "NewYear", "WomensDay", "DefendersDay"],
+    "rivalry": "high",
+    "bestMarketplace": ""
+  },
+  {
+    "id": "clothing",
+    "name": "Одежда",
+    "season": "autumn/winter/spring/summer",
+    "holiday": ["NewYear", "WomensDay", "KnowledgeDay", "Halloween"],
+    "rivalry": "high",
+    "bestMarketplace": ""
+  },
+  {
+    "id": "shoes",
+    "name": "Обувь",
+    "season": "autumn/winter/spring/summer",
+    "holiday": ["KnowledgeDay", "NewYear"],
+    "rivalry": "high",
+    "bestMarketplace": ""
+  },
+  {
+    "id": "home_and_garden",
+    "name": "Дом и сад",
+    "season": "spring/summer",
+    "holiday": ["LaborDay", "NewYear"],
+    "rivalry": "medium",
+    "bestMarketplace": ""
+  },
+  {
+    "id": "childrens_goods",
+    "name": "Детские товары",
+    "season": "autumn/winter/spring/summer",
+    "holiday": ["NewYear", "ChildrensDay", "KnowledgeDay", "Halloween"],
+    "rivalry": "high",
+    "bestMarketplace": ""
+  },
+  {
+    "id": "beauty_and_health",
+    "name": "Красота и здоровье",
+    "season": "autumn/winter/spring/summer",
+    "holiday": ["WomensDay", "NewYear", "DefendersDay"],
+    "rivalry": "high",
+    "bestMarketplace": ""
+  },
+  {
+    "id": "home_appliances",
+    "name": "Бытовая техника",
+    "season": "autumn/winter/spring/summer",
+    "holiday": ["NewYear", "WomensDay"],
+    "rivalry": "high",
+    "bestMarketplace": ""
+  },
+  {
+    "id": "sports_and_outdoors",
+    "name": "Спорт и отдых",
+    "season": "summer/winter",
+    "holiday": ["DefendersDay", "NewYear"],
+    "rivalry": "medium",
+    "bestMarketplace": ""
+  },
+  {
+    "id": "construction_and_repair",
+    "name": "Строительство и ремонт",
+    "season": "spring/summer",
+    "holiday": ["LaborDay"],
+    "rivalry": "medium",
+    "bestMarketplace": ""
+  },
+  {
+    "id": "food_and_groceries",
+    "name": "Продукты питания",
+    "season": "autumn/winter/spring/summer",
+    "holiday": ["NewYear", "Easter", "Maslenitsa", "WomensDay"],
+    "rivalry": "high",
+    "bestMarketplace": ""
+  },
+  {
+    "id": "pharmacy",
+    "name": "Аптека",
+    "season": "autumn/winter",
+    "holiday": [],
+    "rivalry": "medium",
+    "bestMarketplace": ""
+  },
+  {
+    "id": "pet_supplies",
+    "name": "Товары для животных",
+    "season": "autumn/winter/spring/summer",
+    "holiday": [],
+    "rivalry": "medium",
+    "bestMarketplace": ""
+  },
+  {
+    "id": "books",
+    "name": "Книги",
+    "season": "autumn/winter/spring/summer",
+    "holiday": ["KnowledgeDay", "TeacherDay", "NewYear"],
+    "rivalry": "medium",
+    "bestMarketplace": ""
+  },
+  {
+    "id": "tourism_fishing_hunting",
+    "name": "Туризм, рыбалка, охота",
+    "season": "summer/spring",
+    "holiday": ["DefendersDay", "LaborDay"],
+    "rivalry": "medium",
+    "bestMarketplace": ""
+  },
+  {
+    "id": "auto_supplies",
+    "name": "Автотовары",
+    "season": "autumn/spring",
+    "holiday": ["DefendersDay"],
+    "rivalry": "medium",
+    "bestMarketplace": ""
+  },
+  {
+    "id": "furniture",
+    "name": "Мебель",
+    "season": "autumn/winter/spring/summer",
+    "holiday": ["NewYear"],
+    "rivalry": "medium",
+    "bestMarketplace": ""
+  },
+  {
+    "id": "hobbies_and_crafts",
+    "name": "Хобби и творчество",
+    "season": "autumn/winter/spring/summer",
+    "holiday": ["KnowledgeDay", "ChildrensDay", "NewYear", "Halloween"],
+    "rivalry": "medium",
+    "bestMarketplace": ""
+  },
+  {
+    "id": "jewelry",
+    "name": "Ювелирные украшения",
+    "season": "autumn/winter/spring/summer",
+    "holiday": ["WomensDay", "NewYear", "FamilyDay"],
+    "rivalry": "high",
+    "bestMarketplace": ""
+  },
+  {
+    "id": "accessories",
+    "name": "Аксессуары",
+    "season": "autumn/winter/spring/summer",
+    "holiday": ["WomensDay", "DefendersDay", "NewYear", "Halloween"],
+    "rivalry": "high",
+    "bestMarketplace": ""
+  },
+  {
+    "id": "games_and_consoles",
+    "name": "Игры и консоли",
+    "season": "winter",
+    "holiday": ["NewYear", "DefendersDay", "ChildrensDay"],
+    "rivalry": "high",
+    "bestMarketplace": ""
+  },
+  {
+    "id": "stationery",
+    "name": "Канцелярские товары",
+    "season": "summer",
+    "holiday": ["KnowledgeDay", "TeacherDay"],
+    "rivalry": "high",
+    "bestMarketplace": ""
+  },
+  {
+    "id": "adult_goods",
+    "name": "Товары для взрослых",
+    "season": "autumn/winter/spring/summer",
+    "holiday": ["WomensDay", "NewYear", "Halloween"],
+    "rivalry": "high",
+    "bestMarketplace": ""
+  },
+  {
+    "id": "antiques_and_collectibles",
+    "name": "Антиквариат и коллекционирование",
+    "season": "autumn/winter/spring/summer",
+    "holiday": ["VictoryDay", "DefendersDay", "UnityDay"],
+    "rivalry": "low",
+    "bestMarketplace": ""
+  },
+  {
+    "id": "digital_goods",
+    "name": "Цифровые товары",
+    "season": "autumn/winter/spring/summer",
+    "holiday": ["NewYear", "DefendersDay", "WomensDay"],
+    "rivalry": "high",
+    "bestMarketplace": ""
+  },
+  {
+    "id": "household_chemicals_and_hygiene",
+    "name": "Бытовая химия и гигиена",
+    "season": "autumn/winter/spring/summer",
+    "holiday": ["NewYear"],
+    "rivalry": "high",
+    "bestMarketplace": ""
+  },
+  {
+    "id": "music_and_video",
+    "name": "Музыка и видео",
+    "season": "autumn/winter/spring/summer",
+    "holiday": ["NewYear"],
+    "rivalry": "medium",
+    "bestMarketplace": ""
+  },
+  {
+    "id": "smoking_supplies_and_accessories",
+    "name": "Товары для курения и аксессуары",
+    "season": "autumn/winter/spring/summer",
+    "holiday": ["DefendersDay"],
+    "rivalry": "medium",
+    "bestMarketplace": ""
+  }
+]

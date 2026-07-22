@@ -1,0 +1,62 @@
+[
+  {
+    "id": "NonFictionLiterature",
+    "name": "Нехудожественная литература",
+    "name_en": "Non-Fiction Literature",
+    "name_zh": "非虚构文学"
+  },
+  {
+    "id": "FictionLiterature",
+    "name": "Художественная литература",
+    "name_en": "Fiction Literature",
+    "name_zh": "虚构文学"
+  },
+  {
+    "id": "ForChildrenAndParents",
+    "name": "Детям и родителям",
+    "name_en": "For Children and Parents",
+    "name_zh": "儿童与父母"
+  },
+  {
+    "id": "EducationalLiterature",
+    "name": "Учебная литература",
+    "name_en": "Educational Literature",
+    "name_zh": "教材与教辅"
+  },
+  {
+    "id": "Comics",
+    "name": "Комиксы",
+    "name_en": "Comics",
+    "name_zh": "漫画"
+  },
+  {
+    "id": "Manga",
+    "name": "Манга",
+    "name_en": "Manga",
+    "name_zh": "日本漫画"
+  },
+  {
+    "id": "MagazinesAndNewspapers",
+    "name": "Журналы и газеты",
+    "name_en": "Magazines and Newspapers",
+    "name_zh": "杂志与报纸"
+  },
+  {
+    "id": "GiftBookEditions",
+    "name": "Подарочные издания книг",
+    "name_en": "Gift Book Editions",
+    "name_zh": "礼品书出版"
+  },
+  {
+    "id": "AntiqueBooks",
+    "name": "Антикварные книги",
+    "name_en": "Antique Books",
+    "name_zh": "古旧书与珍本书"
+  },
+  {
+    "id": "EbookAndAudiobookSubscriptions",
+    "name": "Подписки на электронные книги и аудиокниги",
+    "name_en": "E-book and Audiobook Subscriptions",
+    "name_zh": "电子书与 talk 书订阅"
+  }
+]

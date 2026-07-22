@@ -1,0 +1,26 @@
+[
+  {
+    "id": "WomensShoes",
+    "name": "Женская обувь",
+    "name_en": "Women's Shoes",
+    "name_zh": "女鞋"
+  },
+  {
+    "id": "MensShoes",
+    "name": "Мужская обувь",
+    "name_en": "Men's Shoes",
+    "name_zh": "男鞋"
+  },
+  {
+    "id": "KidsShoes",
+    "name": "Детская обувь",
+    "name_en": "Children's Shoes",
+    "name_zh": "童鞋"
+  },
+  {
+    "id": "ShoeCareAndAccessories",
+    "name": "Уход и аксессуары",
+    "name_en": "Shoe Care and Accessories",
+    "name_zh": "鞋类 care 与配件"
+  }
+]

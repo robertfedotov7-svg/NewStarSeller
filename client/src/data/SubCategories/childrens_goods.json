@@ -1,0 +1,56 @@
+[
+  {
+    "id": "SchoolAndEducationSupplies",
+    "name": "Товары для школы и обучения",
+    "name_en": "School and Educational Supplies",
+    "name_zh": "学校与教育用品"
+  },
+  {
+    "id": "ToysAndGames",
+    "name": "Игрушки и игры",
+    "name_en": "Toys and Games",
+    "name_zh": "玩具与游戏"
+  },
+  {
+    "id": "OutdoorSportsAndGames",
+    "name": "Спорт и игры на улице",
+    "name_en": "Outdoor Sports and Games",
+    "name_zh": "户外运动与游戏"
+  },
+  {
+    "id": "DiapersAndHygiene",
+    "name": "Подгузники и гигиена",
+    "name_en": "Diapers and Hygiene",
+    "name_zh": "纸尿裤与卫生用品"
+  },
+  {
+    "id": "KidsRoom",
+    "name": "Детская комната",
+    "name_en": "Kids' Room Furniture and Decor",
+    "name_zh": "儿童房家具与装饰"
+  },
+  {
+    "id": "StrollersAndCarSeats",
+    "name": "Коляски и автокресла",
+    "name_en": "Strollers and Car Seats",
+    "name_zh": "婴儿推车与安全座椅"
+  },
+  {
+    "id": "BabyFood",
+    "name": "Детское питание",
+    "name_en": "Baby Food",
+    "name_zh": "婴幼儿食品"
+  },
+  {
+    "id": "FeedingProducts",
+    "name": "Товары для кормления",
+    "name_en": "Baby Feeding Products",
+    "name_zh": "喂养用品"
+  },
+  {
+    "id": "ProductsForMothers",
+    "name": "Товары для мам",
+    "name_en": "Products for Mothers",
+    "name_zh": "孕ref用品"
+  }
+]

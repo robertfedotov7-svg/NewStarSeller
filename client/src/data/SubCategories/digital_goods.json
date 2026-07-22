@@ -1,0 +1,50 @@
+[
+  {
+    "id": "ElectronicCertificates",
+    "name": "Электронные сертификаты",
+    "name_en": "Electronic Certificates",
+    "name_zh": "电子礼品卡与券"
+  },
+  {
+    "id": "CharityCertificates",
+    "name": "Благотворительные сертификаты",
+    "name_en": "Charity Certificates",
+    "name_zh": "慈善捐赠证书"
+  },
+  {
+    "id": "MobileCommunications",
+    "name": "Мобильная связь",
+    "name_en": "Mobile Communications",
+    "name_zh": "移动通信与话费"
+  },
+  {
+    "id": "OnlineSubscriptions",
+    "name": "Онлайн-подписки",
+    "name_en": "Online Subscriptions",
+    "name_zh": "线上订阅服务"
+  },
+  {
+    "id": "GamesAndGameSubscriptions",
+    "name": "Игры и игровые подписки",
+    "name_en": "Games and Game Subscriptions",
+    "name_zh": "游戏与游戏会员订阅"
+  },
+  {
+    "id": "Software",
+    "name": "Программное обеспечение",
+    "name_en": "Software",
+    "name_zh": "计算机软件"
+  },
+  {
+    "id": "ElectronicLotteryTickets",
+    "name": "Электронные лотерейные билеты",
+    "name_en": "Electronic Lottery Tickets",
+    "name_zh": "电子彩票"
+  },
+  {
+    "id": "Services",
+    "name": "Услуги",
+    "name_en": "Services",
+    "name_zh": "线上与线下服务"
+  }
+]

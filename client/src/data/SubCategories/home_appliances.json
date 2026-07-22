@@ -1,0 +1,38 @@
+[
+  {
+    "id": "LargeHomeAppliances",
+    "name": "Крупная бытовая техника",
+    "name_en": "Major Home Appliances",
+    "name_zh": "大型家用电器"
+  },
+  {
+    "id": "KitchenAppliances",
+    "name": "Техника для кухни",
+    "name_en": "Kitchen Appliances",
+    "name_zh": "厨房电器"
+  },
+  {
+    "id": "HomeAppliances",
+    "name": "Техника для дома",
+    "name_en": "Home Appliances",
+    "name_zh": "生活电器"
+  },
+  {
+    "id": "ClimateControlAppliances",
+    "name": "Климатическая техника",
+    "name_en": "Climate Control Appliances",
+    "name_zh": "环境气候电器"
+  },
+  {
+    "id": "BeautyAndHealthAppliances",
+    "name": "Техника для красоты и здоровья",
+    "name_en": "Beauty and Health Appliances",
+    "name_zh": "个人 care 与健康电器"
+  },
+  {
+    "id": "CommercialCateringEquipment",
+    "name": "Техника для общепита",
+    "name_en": "Commercial Catering Equipment",
+    "name_zh": "餐饮商用设备"
+  }
+]

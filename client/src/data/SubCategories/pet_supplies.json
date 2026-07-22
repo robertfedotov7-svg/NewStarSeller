@@ -1,0 +1,56 @@
+[
+  {
+    "id": "ForCats",
+    "name": "Для кошек",
+    "name_en": "For Cats",
+    "name_zh": "猫咪用品"
+  },
+  {
+    "id": "ForDogs",
+    "name": "Для собак",
+    "name_en": "For Dogs",
+    "name_zh": "狗狗用品"
+  },
+  {
+    "id": "ForRodentsAndFerrets",
+    "name": "Для грызунов и хорьков",
+    "name_en": "For Rodents and Ferrets",
+    "name_zh": "啮齿动物与雪貂用品"
+  },
+  {
+    "id": "ForBirds",
+    "name": "Для птиц",
+    "name_en": "For Birds",
+    "name_zh": "鸟类用品"
+  },
+  {
+    "id": "ForFishAndReptiles",
+    "name": "Для рыб и рептилий",
+    "name_en": "For Fish and Reptiles",
+    "name_zh": "鱼类与爬行动物用品"
+  },
+  {
+    "id": "ForHorses",
+    "name": "Для лошадей",
+    "name_en": "For Horses",
+    "name_zh": "马 Orion 用品"
+  },
+  {
+    "id": "VetPharmacy",
+    "name": "Ветаптека",
+    "name_en": "Veterinary Pharmacy",
+    "name_zh": "宠物药房"
+  },
+  {
+    "id": "Farming",
+    "name": "Фермерское хозяйство",
+    "name_en": "Farming and Agriculture",
+    "name_zh": "农场与畜牧业用品"
+  },
+  {
+    "id": "VeterinaryEquipment",
+    "name": "Ветеринарное оборудование",
+    "name_en": "Veterinary Equipment",
+    "name_zh": "兽医设备"
+  }
+]

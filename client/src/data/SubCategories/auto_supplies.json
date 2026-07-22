@@ -1,0 +1,86 @@
+[
+  {
+    "id": "PassengerCarParts",
+    "name": "Запчасти для легковых авто",
+    "name_en": "Passenger Car Parts",
+    "name_zh": "轿车配件"
+  },
+  {
+    "id": "CarAudio",
+    "name": "Автозвук",
+    "name_en": "Car Audio Systems",
+    "name_zh": "汽车音响"
+  },
+  {
+    "id": "GarageAndCarService",
+    "name": "Гараж и автосервис",
+    "name_en": "Garage and Car Service Equipment",
+    "name_zh": "车库与汽车维修设备"
+  },
+  {
+    "id": "CarAccessoriesAndSupplies",
+    "name": "Автоаксессуары и принадлежности",
+    "name_en": "Car Accessories and Supplies",
+    "name_zh": "汽车用品与配饰"
+  },
+  {
+    "id": "Vehicles",
+    "name": "Транспортные средства",
+    "name_en": "Vehicles",
+    "name_zh": "交通工具"
+  },
+  {
+    "id": "CarCare",
+    "name": "Уход за автомобилем",
+    "name_en": "Car Care and Detailing",
+    "name_zh": "汽车美容与护理"
+  },
+  {
+    "id": "CarElectronics",
+    "name": "Электроника для автомобиля",
+    "name_en": "Car Electronics",
+    "name_zh": "汽车电子产品"
+  },
+  {
+    "id": "ToolsAndEquipment",
+    "name": "Инструменты и оборудование",
+    "name_en": "Tools and Equipment",
+    "name_zh": "工具与设备"
+  },
+  {
+    "id": "OilsAndCarChemicals",
+    "name": "Масла и автохимия",
+    "name_en": "Oils and Car Chemicals",
+    "name_zh": "机油与汽车化学品"
+  },
+  {
+    "id": "BatteriesAndAccessories",
+    "name": "Аккумуляторы и аксессуары",
+    "name_en": "Batteries and Accessories",
+    "name_zh": "蓄电池及配件"
+  },
+  {
+    "id": "MotoProducts",
+    "name": "Мототовары",
+    "name_en": "Motorcycle Products",
+    "name_zh": "摩托车用品"
+  },
+  {
+    "id": "TruckAndSpecialMachineryParts",
+    "name": "Запчасти для грузовиков и спецтехники",
+    "name_en": "Truck and Special Machinery Parts",
+    "name_zh": "卡车与工程机械配件"
+  },
+  {
+    "id": "AviationParts",
+    "name": "Запчасти авиационные",
+    "name_en": "Aviation Parts",
+    "name_zh": "航空零部件"
+  },
+  {
+    "id": "TiresAndRims",
+    "name": "Шины и диски",
+    "name_en": "Tires and Rims",
+    "name_zh": "轮胎与轮毂"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "id": "HouseholdChemicals",
+    "name": "Бытовая химия",
+    "name_en": "Household Chemicals",
+    "name_zh": "家用化学品"
+  },
+  {
+    "id": "PersonalHygiene",
+    "name": "Личная гигиена",
+    "name_en": "Personal Hygiene",
+    "name_zh": "个人卫生用品"
+  }
+]

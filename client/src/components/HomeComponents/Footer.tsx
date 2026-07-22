@@ -43,7 +43,7 @@ const Footer = () => {
                     {/* Бренд-блок (Занимает 4 колонки на десктопе) */}
                     <div className="col-span-2 md:col-span-4 flex flex-col justify-between items-start h-full space-y-6">
                         <div className="space-y-4">
-                            <Link href="/" className="flex items-center gap-2.5 group">
+                            <Link href="/client/public" className="flex items-center gap-2.5 group">
                                 {/* Идеальный монохромный логотип Apple-style */}
                                 <div className="w-5 h-5 rounded-md bg-white text-black flex items-center justify-center font-black text-[10px] tracking-tighter transition-transform duration-500 group-hover:rotate-180">
                                     ▲

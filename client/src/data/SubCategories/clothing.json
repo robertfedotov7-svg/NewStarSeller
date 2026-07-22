@@ -1,0 +1,32 @@
+[
+  {
+    "id": "WomensClothing",
+    "name": "Женская одежда",
+    "name_en": "Women's Clothing",
+    "name_zh": "女装"
+  },
+  {
+    "id": "MensClothing",
+    "name": "Мужская одежда",
+    "name_en": "Men's Clothing",
+    "name_zh": "男装"
+  },
+  {
+    "id": "KidsClothing",
+    "name": "Детская одежда",
+    "name_en": "Children's Clothing",
+    "name_zh": "童装"
+  },
+  {
+    "id": "UniformsAndWorkwear",
+    "name": "Униформа и рабочая одежда",
+    "name_en": "Uniforms and Workwear",
+    "name_zh": "制服与工作服"
+  },
+  {
+    "id": "ClothingCare",
+    "name": "Уход за одеждой",
+    "name_en": "Clothing Care",
+    "name_zh": "衣物护理"
+  }
+]

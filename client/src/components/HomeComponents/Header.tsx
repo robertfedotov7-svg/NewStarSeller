@@ -2,7 +2,6 @@
 
 import React, { useState, useEffect } from "react";
 import Image from "next/image";
-import Logo from "@/app/favicon.ico";
 import { motion } from "framer-motion";
 import { useRouter, usePathname } from "next/navigation";
 import { AuthButtons, ProfileDropdown } from "@/components/ui/Header/LoginSection"
@@ -22,7 +21,7 @@ const Header = () => {
         return (
             <header className="fixed top-0 left-0 z-50 flex justify-center items-center w-full opacity-0">
                 <div className="flex items-center justify-between w-full max-w-7xl p-5 mx-auto">
-                    <Image src={Logo} height="35" alt="Logo" />
+                    <Image src="/logo.png" width="35" height="35" alt="Logo" color="black" />
                 </div>
             </header>
         );
@@ -40,11 +39,13 @@ const Header = () => {
                 {/* Логотип */}
                 <Image
                     onClick={() => router.push("/")}
-                    src={Logo}
-                    height="35"
+                    src="/logo.ico"
+                    width="48"
+                    height="48"
                     alt="Logo"
-                    className="transition duration-300 hover:scale-105 active:scale-95 cursor-pointer pointer-events-auto filter invert brightness-100"
+                    className="rounded-full transition duration-300 hover:scale-105 active:scale-95 cursor-pointer pointer-events-auto filter brightness-100"
                 />
+
 
                 {/* Правая навигационная зона */}
                 <div className="flex items-center gap-5 pointer-events-auto">

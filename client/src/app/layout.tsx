@@ -1,7 +1,7 @@
 import { Metadata } from 'next';
 import React from "react";
 import "./styles/App.css";
-import Layout from "../components/Layout";
+import Layout from "@/components/HomeComponents/Layout";
 import { AuthProvider } from "@/context/AuthContext";
 
 export const metadata: Metadata = {

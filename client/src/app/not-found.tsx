@@ -1,17 +1,37 @@
 "use client"
 import { motion } from 'framer-motion'
-import Link from 'next/link'
+import { useAuth } from "@/context/AuthContext";
+import { useRouter } from "next/navigation";
+import { useState, useEffect } from 'react';
 
 export default function NotFound() {
+    const [fullUrl, setFullUrl] = useState<string>('');
+
+    const router = useRouter();
+    const { user } = useAuth();
+
+    useEffect(() => {
+        // Записываем URL при монтировании компонента
+        setFullUrl(window.location.href);
+    }, []); // Пустой массив зависимостей безопасен для страницы 404
+
+    const handleRoute = () => {
+        // Защита от undefined на случай, если id пользователя еще не загрузился
+        if (user?.uid && fullUrl.includes(user.uid)) {
+            router.push(`/user/${user.uid}/`);
+        } else {
+            router.push('/');
+        }
+    };
+    console.log(new Date().toLocaleDateString())
     return (
         <motion.div
             initial={{ opacity: 0, y: 50 }}
             animate={{ opacity: 1, y: 0 }}
             exit={{ opacity: 0, y: -50 }}
             transition={{ duration: 0.8, ease: "easeInOut" }}
-            className="relative text-white w-screen h-screen flex flex-col justify-center items-center overflow-hidden "
+            className="relative text-white w-screen h-screen flex flex-col justify-center items-center overflow-hidden"
         >
-            {/* Стили для анимации блика на кнопке */}
             <style jsx global>{`
                 @keyframes shimmer {
                     100% { transform: translateX(100%); }
@@ -21,7 +41,6 @@ export default function NotFound() {
                 }
             `}</style>
 
-            {/* Анимированный текст 404 */}
             <motion.h1
                 animate={{
                     y: ["0px", "-25px", "0px", "-30px"],
@@ -37,7 +56,7 @@ export default function NotFound() {
             >
                 404
             </motion.h1>
-            {/* Волновой блок с градиентом и размытием */}
+
             <div className="z-20 absolute bottom-0 w-screen h-[55vh] flex flex-col justify-end pb-16 items-center">
                 <svg className="absolute w-0 h-0" aria-hidden="true">
                     <defs>
@@ -61,7 +80,6 @@ export default function NotFound() {
                     style={{ clipPath: "url(#smooth-wave-high)" }}
                 />
 
-                {/* Текст и кнопка поверх волны */}
                 <div className="relative z-30 flex flex-col items-center gap-6 text-center px-4 pb-36">
                     <motion.div
                         initial={{ opacity: 0, y: 20 }}
@@ -72,7 +90,6 @@ export default function NotFound() {
                         <h2 className="text-2xl md:text-3xl font-medium tracking-tight text-white">Вы забрели куда-то не туда</h2>
                     </motion.div>
 
-                    {/* Интерактивная кнопка */}
                     <motion.div
                         initial={{ opacity: 0, scale: 0.9 }}
                         animate={{ opacity: 1, scale: 1 }}
@@ -80,15 +97,13 @@ export default function NotFound() {
                         whileHover={{ scale: 1.03 }}
                         whileTap={{ scale: 0.98 }}
                     >
-                        <Link
-                            href="/"
+                        <button
+                            onClick={handleRoute}
                             className="relative group inline-flex items-center justify-center px-6 py-3 overflow-hidden rounded-full font-medium tracking-wide text-sm bg-white text-black transition-all duration-300 hover:bg-zinc-100 shadow-[0_0_20px_rgba(255,255,255,0.1)] hover:shadow-[0_0_30px_rgba(255,255,255,0.25)] pointer-events-auto"
                         >
-                            {/* Блик, использующий локальный CSS класс */}
                             <span className="absolute inset-0 w-full h-full bg-gradient-to-r from-transparent via-white/20 to-transparent -translate-x-full group-hover:animate-shimmer" />
-
                             Вернуться на главную
-                        </Link>
+                        </button>
                     </motion.div>
                 </div>
             </div>

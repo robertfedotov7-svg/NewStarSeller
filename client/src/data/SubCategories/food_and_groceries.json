@@ -1,0 +1,104 @@
+[
+  {
+    "id": "TeaCoffeeAndCocoa",
+    "name": "Чай, кофе и какао",
+    "name_en": "Tea, Coffee and Cocoa",
+    "name_zh": "茶、咖啡和可可"
+  },
+  {
+    "id": "BakeryAndSweets",
+    "name": "Выпечка и сладости",
+    "name_en": "Bakery and Sweets",
+    "name_zh": "烘焙与甜 Christian"
+  },
+  {
+    "id": "BreadAndFlatbreads",
+    "name": "Хлеб, лаваши и лепешки",
+    "name_en": "Bread and Flatbreads",
+    "name_zh": "面包与面饼"
+  },
+  {
+    "id": "JuicesWaterAndDrinks",
+    "name": "Соки, воды и напитки",
+    "name_en": "Juices, Water and Drinks",
+    "name_zh": "果汁、水和饮料"
+  },
+  {
+    "id": "NutsAndSnacks",
+    "name": "Орехи и снеки",
+    "name_en": "Nuts and Snacks",
+    "name_zh": "坚果与零食"
+  },
+  {
+    "id": "DairyCheeseAndEggs",
+    "name": "Молочные продукты, сыры и яйца",
+    "name_en": "Dairy, Cheese and Eggs",
+    "name_zh": "乳制品、奶酪和鸡蛋"
+  },
+  {
+    "id": "OilsSaucesAndSpices",
+    "name": "Масла, соусы и специи",
+    "name_en": "Oils, Sauces and Spices",
+    "name_zh": "油脂、酱料和调味品"
+  },
+  {
+    "id": "PastaGrainsAndFlour",
+    "name": "Макароны, крупы и мука",
+    "name_en": "Pasta, Grains and Flour",
+    "name_zh": "意面、谷物和面粉"
+  },
+  {
+    "id": "CannedFood",
+    "name": "Консервация",
+    "name_en": "Canned Food",
+    "name_zh": "罐头食品"
+  },
+  {
+    "id": "FrozenFoods",
+    "name": "Замороженные продукты",
+    "name_en": "Frozen Foods",
+    "name_zh": "冷冻食品"
+  },
+  {
+    "id": "MeatAndPoultry",
+    "name": "Мясо и птица",
+    "name_en": "Meat and Poultry",
+    "name_zh": "肉类与禽类"
+  },
+  {
+    "id": "FishAndSeafood",
+    "name": "Рыба и морепродукты",
+    "name_en": "Fish and Seafood",
+    "name_zh": "鱼类与海鲜"
+  },
+  {
+    "id": "SausagesAndDeliMeats",
+    "name": "Колбасы, сосиски и деликатесы",
+    "name_en": "Sausages and Deli Meats",
+    "name_zh": "香肠与熟食"
+  },
+  {
+    "id": "VegetablesFruitsAndGreens",
+    "name": "Овощи, фрукты и зелень",
+    "name_en": "Vegetables, Fruits and Greens",
+    "name_zh": "蔬菜、水果和生菜"
+  },
+  {
+    "id": "ReadyMeals",
+    "name": "Готовые блюда",
+    "name_en": "Ready Meals",
+    "name_zh": "即食食品"
+  },
+  {
+    "id": "CerealsMuesliAndPorridge",
+    "name": "Сухие завтраки, мюсли и каши",
+    "name_en": "Breakfast Cereals, Muesli and Porridge",
+    "name_zh": "麦片、 commercial 麦片和粥"
+  },
+  {
+    "id": "AlcoholicBeverages",
+    "name": "Алкогольная продукция",
+    "name_en": "Alcoholic Beverages",
+    "name_zh": "酒类制品"
+  }
+]

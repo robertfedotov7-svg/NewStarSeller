@@ -1,0 +1,98 @@
+[
+  {
+    "id": "WritingUtensils",
+    "name": "Письменные принадлежности",
+    "name_en": "Writing Utensils",
+    "name_zh": "书写工具"
+  },
+  {
+    "id": "PaperProducts",
+    "name": "Бумага",
+    "name_en": "Paper",
+    "name_zh": "纸张"
+  },
+  {
+    "id": "StationeryPaperProducts",
+    "name": "Бумажная продукция",
+    "name_en": "Paper Stationery",
+    "name_zh": "纸制品"
+  },
+  {
+    "id": "FoldersAndFiles",
+    "name": "Папки и файлы",
+    "name_en": "Folders and Files",
+    "name_zh": "文件夹与文件袋"
+  },
+  {
+    "id": "Covers",
+    "name": "Обложки",
+    "name_en": "Covers",
+    "name_zh": "书皮与保护套"
+  },
+  {
+    "id": "PresentationBoards",
+    "name": "Демонстрационные доски",
+    "name_en": "Presentation Boards",
+    "name_zh": "演示白板"
+  },
+  {
+    "id": "OfficeSupplies",
+    "name": "Офисные принадлежности",
+    "name_en": "Office Supplies",
+    "name_zh": "办公用品"
+  },
+  {
+    "id": "OrganizersAndCardHolders",
+    "name": "Подставки и визитницы",
+    "name_en": "Organizers and Business Card Holders",
+    "name_zh": "桌面收纳与名片夾"
+  },
+  {
+    "id": "StampsAndSeals",
+    "name": "Печати и штампы",
+    "name_en": "Stamps and Seals",
+    "name_zh": "印章与戳记"
+  },
+  {
+    "id": "Calculators",
+    "name": "Калькуляторы",
+    "name_en": "Calculators",
+    "name_zh": "计算器"
+  },
+  {
+    "id": "LaserPrinterCartridges",
+    "name": "Картриджи для лазерных принтеров",
+    "name_en": "Laser Printer Cartridges",
+    "name_zh": "激光打印机硒鼓"
+  },
+  {
+    "id": "InkjetPrinterCartridges",
+    "name": "Картриджи для струйных принтеров",
+    "name_en": "Inkjet Printer Cartridges",
+    "name_zh": "喷墨打印机墨盒"
+  },
+  {
+    "id": "DraftingSupplies",
+    "name": "Чертежные принадлежности",
+    "name_en": "Drafting Supplies",
+    "name_zh": "绘图与制图工具"
+  },
+  {
+    "id": "RetailEquipmentAndSupplies",
+    "name": "Оборудование и принадлежности для торговли",
+    "name_en": "Retail Equipment and Supplies",
+    "name_zh": "商业零售设备与用品"
+  },
+  {
+    "id": "PrintingEquipment",
+    "name": "Полиграфическое оборудование",
+    "name_en": "Printing and Press Equipment",
+    "name_zh": "印刷与印刷厂设备"
+  },
+  {
+    "id": "SublimationPrinting",
+    "name": "Сублимационная печать",
+    "name_en": "Sublimation Printing",
+    "name_zh": "热浸润升华印刷"
+  }
+]

@@ -1,0 +1,144 @@
+[
+  {
+    "totalItemsFound": 18,
+    "productName": "Школьный рюкзак",
+    "score": 91,
+    "finance": {
+      "purchasePrice": 1450,
+      "sellingPrice": 3290,
+      "margin": 57,
+      "riskLevel": "Низкий"
+    },
+    "recommendation": {
+      "status": "Лидер рейтинга",
+      "verdict": "Рекомендуется к запуску в первую очередь. Оптимальный баланс низкой конкуренции и высокой маржинальности.",
+      "potentialProfitPerUnit": 1840
+    },
+    "factors": [
+      { "name": "Сезонный спрос", "score": 25, "maxScore": 25, "reason": "До начала учебного года осталось 46 дней." },
+      { "name": "Высокая маржа", "score": 20, "maxScore": 30, "reason": "До начала учебного года осталось 46 дней." },
+      { "name": "Низкая конкуренция", "score": 15, "maxScore": 30, "reason": "До начала учебного года осталось 46 дней." },
+      { "name": "Быстрая доставка", "score": 12, "maxScore": 30, "reason": "До начала учебного года осталось 46 дней." },
+      { "name": "Сезонный спрос", "score": 25, "maxScore": 25, "reason": "До начала учебного года осталось 46 дней." },
+      { "name": "Высокая маржа", "score": 20, "maxScore": 20, "reason": "До начала учебного года осталось 46 дней." },
+      { "name": "Низкая конкуренция", "score": 15, "maxScore": 30, "reason": "До начала учебного года осталось 46 дней." },
+      { "name": "Быстрая доставка", "score": 12, "maxScore": 30, "reason": "До начала учебного года осталось 46 дней." }
+    ],
+    "suppliers": [
+      {
+        "id": "ch-backpack-1",
+        "category": "Канцелярия и школа",
+        "name": "Рюкзак ортопедический с вентилируемой спинкой Ultra",
+        "chineseMarketplace": "1688 Factory",
+        "purchasePrice": "420 ₽ (¥38.5)",
+        "url": "https://www.joom.ru/ru/products/60bdbe60f68fc801f6fa58cd?srsltid=AfmBOoouHo7filW5oiFyy3S6uJE5_9HV11T0qNu48uwl3hk2vTiLdiRO"
+      },
+      {
+        "id": "ch-backpack-2",
+        "category": "Канцелярия и школа",
+        "name": "Ранец светоотражающий водонепроницаемый Premium",
+        "chineseMarketplace": "Taobao Gold",
+        "purchasePrice": "510 ₽ (¥46.8)",
+        "url": "https://www.joom.ru/ru/products/60bdbe60f68fc801f6fa58cd?srsltid=AfmBOoouHo7filW5oiFyy3S6uJE5_9HV11T0qNu48uwl3hk2vTiLdiRO"
+      }
+    ],
+    "timeline": {
+      "buyBefore":"2026-07-20",
+      "inStorage": "2026-08-20",
+      "seasonStarts":"2026-09-01",
+      "peak":"2026-08-25"
+    }
+  },
+  {
+    "totalItemsFound": 12,
+    "productName": "Наборы канцелярии",
+    "score": 84,
+    "finance": {
+      "purchasePrice": 240,
+      "sellingPrice": 690,
+      "margin": 65,
+      "riskLevel": "Низкий"
+    },
+    "recommendation": {
+      "status": "Альтернативный вариант",
+      "verdict": "*Самая высокая маржинальность* {65%} и *быстрый выход на маркетплейс* {7 дней}, но *конкуренция выше*, чем у рюкзаков.",
+      "potentialProfitPerUnit": 450
+    },
+    "factors": [
+      { "name": "Сезонный спрос", "score": 25, "maxScore": 30, "reason": "До начала учебного года осталось 46 дней." },
+      { "name": "Низкий чек закупа", "score": 18, "maxScore": 30, "reason": "До начала учебного года осталось 46 дней." },
+      { "name": "Средняя конкуренция", "score": 10, "maxScore": 30, "reason": "До начала учебного года осталось 46 дней." },
+      { "name": "Легкая логистика", "score": 11, "maxScore": 30, "reason": "До начала учебного года осталось 46 дней." }
+    ],
+    "suppliers": [
+      {
+        "id": "ch-stationery-1",
+        "category": "Канцелярия и школа",
+        "name": "Набор гелевых ручек «Стираемые» (42 предмета)",
+        "chineseMarketplace": "Alibaba Wholesale",
+        "purchasePrice": "68 ₽ (¥6.2)",
+        "url": "https://www.joom.ru/ru/products/60bdbe60f68fc801f6fa58cd?srsltid=AfmBOoouHo7filW5oiFyy3S6uJE5_9HV11T0qNu48uwl3hk2vTiLdiRO"
+      },
+      {
+        "id": "ch-stationery-2",
+        "category": "Канцелярия и школа",
+        "name": "Пенал трехсекционный из эко-кожи с наполнением",
+        "chineseMarketplace": "1688 Manufacturing",
+        "purchasePrice": "110 ₽ (¥10.1)",
+        "url": "https://www.joom.ru/ru/products/60bdbe60f68fc801f6fa58cd?srsltid=AfmBOoouHo7filW5oiFyy3S6uJE5_9HV11T0qNu48uwl3hk2vTiLdiRO"
+      }
+    ],
+    "timeline": {
+      "buyBefore":"2026-07-20",
+      "inStorage": "2026-08-20",
+      "seasonStarts":"2026-09-01",
+      "peak":"2026-08-25"
+    }
+  },
+  {
+    "totalItemsFound": 7,
+    "productName": "Сменная обувь",
+    "score": 74,
+    "finance": {
+      "purchasePrice": 850,
+      "sellingPrice": 1990,
+      "margin": 48,
+      "riskLevel": "Средний"
+    },
+    "recommendation": {
+      "status": "Не рекомендуется",
+      "verdict": "Минимальная маржинальность в подборке и повышенный риск из-за высокого процента возвратов по причине размеров.",
+      "potentialProfitPerUnit": 1140
+    },
+    "factors": [
+      { "name": "Сезонный спрос", "score": 20, "maxScore": 30, "reason": "До начала учебного года осталось 46 дней." },
+      { "name": "Хорошая маржа", "score": 14, "maxScore": 30, "reason": "До начала учебного года осталось 46 дней." },
+      { "name": "Высокий процент возвратов", "score": 5, "maxScore": 30, "reason": "До начала учебного года осталось 46 дней." },
+      { "name": "Доставка Карго", "score": 8, "maxScore": 30, "reason": "До начала учебного года осталось 46 дней." }
+    ],
+    "suppliers": [
+      {
+        "id": "ch-shoes-1",
+        "category": "Сменная обувь",
+        "name": "Туфли школьные перфорированные на белой подошве",
+        "chineseMarketplace": "1688 Shoes Co.",
+        "purchasePrice": "340 ₽ (¥31.2)",
+        "url": "https://www.joom.ru/ru/products/60bdbe60f68fc801f6fa58cd?srsltid=AfmBOoouHo7filW5oiFyy3S6uJE5_9HV11T0qNu48uwl3hk2vTiLdiRO"
+      },
+      {
+        "id": "ch-shoes-2",
+        "category": "Сменная обувь",
+        "name": "Лоферы тканевые дышащие для сменной обуви",
+        "chineseMarketplace": "Taobao Mall",
+        "purchasePrice": "290 ₽ (¥26.6)",
+        "url": "https://www.joom.ru/ru/products/60bdbe60f68fc801f6fa58cd?srsltid=AfmBOoouHo7filW5oiFyy3S6uJE5_9HV11T0qNu48uwl3hk2vTiLdiRO"
+      }
+    ],
+    "timeline": {
+      "buyBefore":"2026-07-20",
+      "inStorage": "2026-08-20",
+      "seasonStarts":"2026-09-01",
+      "peak":"2026-08-25"
+    }
+  }
+]

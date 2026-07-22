@@ -1,0 +1,134 @@
+[
+  {
+    "id": "Handicrafts",
+    "name": "Рукоделие",
+    "name_en": "Handicrafts",
+    "name_zh": "手工编织与手工艺"
+  },
+  {
+    "id": "BoardAndCardGames",
+    "name": "Настольные и карточные игры",
+    "name_en": "Board and Card Games",
+    "name_zh": "桌面与卡牌游戏"
+  },
+  {
+    "id": "PuzzlesAndBrainteasers",
+    "name": "Пазлы и головоломки",
+    "name_en": "Puzzles and Brainteasers",
+    "name_zh": "拼图与益智解谜"
+  },
+  {
+    "id": "MusicalInstruments",
+    "name": "Музыкальные инструменты",
+    "name_en": "Musical Instruments",
+    "name_zh": "乐器"
+  },
+  {
+    "id": "DrawingAndPainting",
+    "name": "Рисование",
+    "name_en": "Drawing and Painting",
+    "name_zh": "绘画与美术"
+  },
+  {
+    "id": "ColoringAndPaintingCrafts",
+    "name": "Раскрашивание и роспись",
+    "name_en": "Coloring and Painting Crafts",
+    "name_zh": "填色与绘画涂鸦"
+  },
+  {
+    "id": "PictureAndPhotoFrameCreation",
+    "name": "Создание картин и фоторамок",
+    "name_en": "Picture and Photo Frame Creation",
+    "name_zh": "手工画与相框制作"
+  },
+  {
+    "id": "MosaicsAndFrescoes",
+    "name": "Мозаики и фрески",
+    "name_en": "Mosaics and Frescoes",
+    "name_zh": "马赛克拼贴与壁画"
+  },
+  {
+    "id": "BasReliefsAndStainedGlass",
+    "name": "Барельефы и витражи",
+    "name_en": "Bas-Reliefs and Stained Glass",
+    "name_zh": "浮雕与彩 le 玻璃"
+  },
+  {
+    "id": "Engravings",
+    "name": "Гравюры",
+    "name_en": "Engravings",
+    "name_zh": "版画与版刻"
+  },
+  {
+    "id": "ModelingAndSculpting",
+    "name": "Лепка и скульптура",
+    "name_en": "Modeling and Sculpting",
+    "name_zh": "雕塑与黏土塑造"
+  },
+  {
+    "id": "Pottery",
+    "name": "Гончарное дело",
+    "name_en": "Pottery",
+    "name_zh": "制陶与陶艺"
+  },
+  {
+    "id": "ScaleModeling",
+    "name": "Моделизм",
+    "name_en": "Scale Modeling",
+    "name_zh": "比例模型拼装"
+  },
+  {
+    "id": "ThreeDPensAndAccessories",
+    "name": "3D-ручки и аксессуары",
+    "name_en": "3D Pens and Accessories",
+    "name_zh": "3D打印笔及配件"
+  },
+  {
+    "id": "OrigamiAndPaperCrafts",
+    "name": "Оригами и поделки из бумаги",
+    "name_en": "Origami and Paper Crafts",
+    "name_zh": "折纸与纸质手工艺品"
+  },
+  {
+    "id": "CosmeticsAndPerfumeMaking",
+    "name": "Изготовление косметики и духов",
+    "name_en": "Cosmetics and Perfume Making",
+    "name_zh": "自制化妆品与香水"
+  },
+  {
+    "id": "CandleAndSachetMaking",
+    "name": "Изготовление свечей и саше",
+    "name_en": "Candle and Sachet Making",
+    "name_zh": "自制蜡烛与香薰包"
+  },
+  {
+    "id": "MagicTricks",
+    "name": "Фокусы",
+    "name_en": "Magic Tricks",
+    "name_zh": "魔术道具"
+  },
+  {
+    "id": "FortuneTellingAndEsotericism",
+    "name": "Гадания и эзотерика",
+    "name_en": "Fortune Telling and Esotericism",
+    "name_zh": "占卜与神秘学"
+  },
+  {
+    "id": "ColorAnalysis",
+    "name": "Цветотипирование",
+    "name_en": "Color Analysis",
+    "name_zh": "色彩诊断与个人季型分析"
+  },
+  {
+    "id": "OperaGlasses",
+    "name": "Театральные бинокли",
+    "name_en": "Opera Glasses",
+    "name_zh": "观剧望远镜"
+  },
+  {
+    "id": "Forensics",
+    "name": "Криминалистика",
+    "name_en": "Forensics",
+    "name_zh": "刑事侦查与法医学道具"
+  }
+]

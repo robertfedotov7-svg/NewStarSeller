@@ -1,0 +1,110 @@
+[
+  {
+    "id": "Tools",
+    "name": "Инструменты",
+    "name_en": "Tools",
+    "name_zh": "工具"
+  },
+  {
+    "id": "ConsumablesAndAccessories",
+    "name": "Расходные материалы и оснастка",
+    "name_en": "Consumables and Accessories",
+    "name_zh": "耗材与配件"
+  },
+  {
+    "id": "Plumbing",
+    "name": "Сантехника",
+    "name_en": "Plumbing",
+    "name_zh": "卫浴洁具"
+  },
+  {
+    "id": "WaterSupply",
+    "name": "Водоснабжение",
+    "name_en": "Water Supply",
+    "name_zh": "供水系统"
+  },
+  {
+    "id": "PaintsAndCoatings",
+    "name": "Лакокрасочные материалы",
+    "name_en": "Paints and Coatings",
+    "name_zh": "涂料与油漆"
+  },
+  {
+    "id": "FinishingMaterials",
+    "name": "Отделочные материалы",
+    "name_en": "Finishing Materials",
+    "name_zh": "饰面材料"
+  },
+  {
+    "id": "BuildingMaterials",
+    "name": "Строительные материалы",
+    "name_en": "Building Materials",
+    "name_zh": "建筑材料"
+  },
+  {
+    "id": "DoorsWindowsAndStairs",
+    "name": "Двери, окна, лестницы и комплектующие",
+    "name_en": "Doors, Windows, Stairs and Components",
+    "name_zh": "门窗楼梯及配件"
+  },
+  {
+    "id": "FastenersAndHardware",
+    "name": "Крепеж и фурнитура",
+    "name_en": "Fasteners and Hardware",
+    "name_zh": "紧固件与五金"
+  },
+  {
+    "id": "ElectricalSupplies",
+    "name": "Электрика",
+    "name_en": "Electrical Supplies",
+    "name_zh": "电气与电工"
+  },
+  {
+    "id": "Heating",
+    "name": "Отопление",
+    "name_en": "Heating",
+    "name_zh": "供暖系统"
+  },
+  {
+    "id": "Ventilation",
+    "name": "Вентиляция",
+    "name_en": "Ventilation",
+    "name_zh": "通风系统"
+  },
+  {
+    "id": "GasSupply",
+    "name": "Газоснабжение",
+    "name_en": "Gas Supply",
+    "name_zh": "燃气供应"
+  },
+  {
+    "id": "ProtectiveAndFireEquipment",
+    "name": "Средства защиты и пожаротушения",
+    "name_en": "Protective and Firefighting Equipment",
+    "name_zh": "防护与劳保用品"
+  },
+  {
+    "id": "PowerEquipment",
+    "name": "Силовая техника и оборудование",
+    "name_en": "Power Equipment and Machinery",
+    "name_zh": "动力设备与机械"
+  },
+  {
+    "id": "IndustrialEquipment",
+    "name": "Промышленное оборудование и комплектующие",
+    "name_en": "Industrial Equipment and Components",
+    "name_zh": "工业设备及配件"
+  },
+  {
+    "id": "SaunasAndBaths",
+    "name": "Сауны и бани",
+    "name_en": "Saunas and Baths",
+    "name_zh": "桑拿与洗浴"
+  },
+  {
+    "id": "HousesBathsAndGarages",
+    "name": "Дома, бани и гаражи",
+    "name_en": "Houses, Baths and Garages",
+    "name_zh": "房屋、木屋与车库"
+  }
+]

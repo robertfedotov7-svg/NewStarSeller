@@ -1,0 +1,38 @@
+[
+  {
+    "id": "SexToys",
+    "name": "Секс игрушки",
+    "name_en": "Sex Toys",
+    "name_zh": "情趣玩具"
+  },
+  {
+    "id": "EroticLingerieAndCostumes",
+    "name": "Эротическое белье и костюмы",
+    "name_en": "Erotic Lingerie and Costumes",
+    "name_zh": "情趣内衣与制服"
+  },
+  {
+    "id": "BdsmProducts",
+    "name": "Товары для БДСМ",
+    "name_en": "BDSM Products",
+    "name_zh": "BDSM 字母圈用品"
+  },
+  {
+    "id": "IntimateCosmetics",
+    "name": "Интимная косметика",
+    "name_en": "Intimate Cosmetics",
+    "name_zh": "情趣身体护理与化妆品"
+  },
+  {
+    "id": "CondomsAndLubricants",
+    "name": "Презервативы и лубриканты",
+    "name_en": "Condoms and Lubricants",
+    "name_zh": "避孕套与润滑液"
+  },
+  {
+    "id": "EroticSouvenirsAndGames",
+    "name": "Эротические сувениры и игры",
+    "name_en": "Erotic Souvenirs and Games",
+    "name_zh": "情趣纪念品与小游戏"
+  }
+]

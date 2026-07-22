@@ -1,0 +1,116 @@
+[
+  {
+    "id": "SportsNutrition",
+    "name": "Спортивное питание",
+    "name_en": "Sports Nutrition",
+    "name_zh": "运动营养"
+  },
+  {
+    "id": "CyclingSports",
+    "name": "Велоспорт",
+    "name_en": "Cycling",
+    "name_zh": "自行车运动"
+  },
+  {
+    "id": "WaterSportsAndRecreation",
+    "name": "Водный спорт и отдых на воде",
+    "name_en": "Water Sports and Recreation",
+    "name_zh": "水上运动与娛樂"
+  },
+  {
+    "id": "ScootersAndAccessories",
+    "name": "Самокаты и аксессуары",
+    "name_en": "Scooters and Accessories",
+    "name_zh": "滑板车及配件"
+  },
+  {
+    "id": "ElectricTransport",
+    "name": "Электротранспорт",
+    "name_en": "Electric Transport",
+    "name_zh": "电动代步工具"
+  },
+  {
+    "id": "RollerSkates",
+    "name": "Роликовые коньки",
+    "name_en": "Roller Skates",
+    "name_zh": "轮滑鞋"
+  },
+  {
+    "id": "Skateboarding",
+    "name": "Скейтбординг",
+    "name_en": "Skateboarding",
+    "name_zh": "滑板"
+  },
+  {
+    "id": "TennisAndBadminton",
+    "name": "Теннис и бадминтон",
+    "name_en": "Tennis and Badminton",
+    "name_zh": "网球与羽毛球"
+  },
+  {
+    "id": "Running",
+    "name": "Бег",
+    "name_en": "Running",
+    "name_zh": "跑步"
+  },
+  {
+    "id": "TypesOfSports",
+    "name": "Виды спорта",
+    "name_en": "Sports Disciplines",
+    "name_zh": "体育 спорт 项目"
+  },
+  {
+    "id": "ActiveRecreation",
+    "name": "Активные виды отдыха",
+    "name_en": "Active Recreation",
+    "name_zh": "户外活动"
+  },
+  {
+    "id": "FitnessAndYoga",
+    "name": "Фитнес и йога",
+    "name_en": "Fitness and Yoga",
+    "name_zh": "健身与瑜伽"
+  },
+  {
+    "id": "ExerciseEquipment",
+    "name": "Тренажеры",
+    "name_en": "Exercise Machines",
+    "name_zh": "健身 green 器材"
+  },
+  {
+    "id": "CardioEquipment",
+    "name": "Кардиотренажеры",
+    "name_en": "Cardio Equipment",
+    "name_zh": "有氧训练器"
+  },
+  {
+    "id": "BoxingAndMartialArts",
+    "name": "Бокс и единоборства",
+    "name_en": "Boxing and Martial Arts",
+    "name_zh": "拳击与武术"
+  },
+  {
+    "id": "WinterSports",
+    "name": "Зимний спорт",
+    "name_en": "Winter Sports",
+    "name_zh": "冬季运动"
+  },
+  {
+    "id": "SportsProtectionAndEquipment",
+    "name": "Спортивная защита и экипировка",
+    "name_en": "Sports Protection and Equipment",
+    "name_zh": "运动护具与装备"
+  },
+  {
+    "id": "FreeWeights",
+    "name": "Свободные веса",
+    "name_en": "Free Weights",
+    "name_zh": "自由重量器材"
+  },
+  {
+    "id": "GlidingSport",
+    "name": "Планерный спорт",
+    "name_en": "Gliding",
+    "name_zh": "滑翔运动"
+  }
+]

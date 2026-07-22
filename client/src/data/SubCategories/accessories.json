@@ -1,0 +1,26 @@
+[
+  {
+    "id": "WomensAccessories",
+    "name": "Женские аксессуары",
+    "name_en": "Women's Accessories",
+    "name_zh": "女士配饰"
+  },
+  {
+    "id": "MensAccessories",
+    "name": "Мужские аксессуары",
+    "name_en": "Men's Accessories",
+    "name_zh": "男士配饰"
+  },
+  {
+    "id": "KidsAccessories",
+    "name": "Детские аксессуары",
+    "name_en": "Kids' Accessories",
+    "name_zh": "儿童配饰"
+  },
+  {
+    "id": "TravelGoods",
+    "name": "Путешествия",
+    "name_en": "Travel Goods",
+    "name_zh": "旅行用品"
+  }
+]

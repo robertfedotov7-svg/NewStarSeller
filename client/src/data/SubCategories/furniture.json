@@ -1,0 +1,74 @@
+[
+  {
+    "id": "GardenFurniture",
+    "name": "Садовая мебель",
+    "name_en": "Garden Furniture",
+    "name_zh": "花园家具"
+  },
+  {
+    "id": "ComputerAndOfficeFurniture",
+    "name": "Компьютерная и офисная мебель",
+    "name_en": "Computer and Office Furniture",
+    "name_zh": "电脑与办公家具"
+  },
+  {
+    "id": "SoftFurniture",
+    "name": "Мягкая мебель",
+    "name_en": "Upholstered Furniture",
+    "name_zh": "软体家具"
+  },
+  {
+    "id": "TablesAndChairs",
+    "name": "Столы и стулья",
+    "name_en": "Tables and Chairs",
+    "name_zh": "桌椅"
+  },
+  {
+    "id": "StorageFurniture",
+    "name": "Мебель для хранения",
+    "name_en": "Storage Furniture",
+    "name_zh": "收纳家具"
+  },
+  {
+    "id": "BedroomFurnitureAndComponents",
+    "name": "Мебель для спальни и комплектующие",
+    "name_en": "Bedroom Furniture and Components",
+    "name_zh": "卧室家具及配件"
+  },
+  {
+    "id": "KitchenFurniture",
+    "name": "Мебель для кухни",
+    "name_en": "Kitchen Furniture",
+    "name_zh": "厨房家具"
+  },
+  {
+    "id": "BathroomFurniture",
+    "name": "Мебель для ванной",
+    "name_en": "Bathroom Furniture",
+    "name_zh": "浴室家具"
+  },
+  {
+    "id": "FramelessFurniture",
+    "name": "Бескаркасная мебель",
+    "name_en": "Frameless Furniture",
+    "name_zh": "懒人沙发与无 franchise 家具"
+  },
+  {
+    "id": "KidsFurniture",
+    "name": "Детская мебель",
+    "name_en": "Children's Furniture",
+    "name_zh": "儿童家具"
+  },
+  {
+    "id": "BusinessFurniture",
+    "name": "Мебель для бизнеса",
+    "name_en": "Commercial and Business Furniture",
+    "name_zh": "商业与办公专用家具"
+  },
+  {
+    "id": "SafesAndArchiveCabinets",
+    "name": "Сейфы и архивные шкафы",
+    "name_en": "Safes and Filing Cabinets",
+    "name_zh": "保险柜与档案柜"
+  }
+]

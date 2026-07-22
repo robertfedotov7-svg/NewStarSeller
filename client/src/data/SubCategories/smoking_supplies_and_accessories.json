@@ -1,0 +1,20 @@
+[
+  {
+    "id": "E-CigaretteAndHeatingSystemAccessories",
+    "name": "Аксессуары для электронных сигарет и систем нагревания",
+    "name_en": "Accessories for E-cigarettes and Heating Systems",
+    "name_zh": "电子烟及加热系统配件"
+  },
+  {
+    "id": "SmokingProducts",
+    "name": "Товары для курения",
+    "name_en": "Smoking Products",
+    "name_zh": "吸烟用品"
+  },
+  {
+    "id": "HookahAccessoriesAndComponents",
+    "name": "Аксессуары и комплектующие для кальянов",
+    "name_en": "Hookah Accessories and Components",
+    "name_zh": "水烟配件及部件"
+  }
+]

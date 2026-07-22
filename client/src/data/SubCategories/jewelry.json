@@ -1,0 +1,86 @@
+[
+  {
+    "id": "Rings",
+    "name": "Кольца",
+    "name_en": "Rings",
+    "name_zh": "戒指"
+  },
+  {
+    "id": "Earrings",
+    "name": "Серьги",
+    "name_en": "Earrings",
+    "name_zh": "耳环"
+  },
+  {
+    "id": "Bracelets",
+    "name": "Браслеты",
+    "name_en": "Bracelets",
+    "name_zh": "手链"
+  },
+  {
+    "id": "NeckJewelry",
+    "name": "Украшения на шею",
+    "name_en": "Neck Jewelry",
+    "name_zh": "项链与颈饰"
+  },
+  {
+    "id": "JewelrySets",
+    "name": "Комплекты украшений",
+    "name_en": "Jewelry Sets",
+    "name_zh": "珠宝首饰套装"
+  },
+  {
+    "id": "Charms",
+    "name": "Шармы",
+    "name_en": "Charms",
+    "name_zh": "吊坠与串珠"
+  },
+  {
+    "id": "BroochesAndBadges",
+    "name": "Броши и значки",
+    "name_en": "Brooches and Badges",
+    "name_zh": "胸针与徽章"
+  },
+  {
+    "id": "Piercing",
+    "name": "Пирсинг",
+    "name_en": "Piercing Jewelry",
+    "name_zh": "穿刺饰品"
+  },
+  {
+    "id": "Watches",
+    "name": "Часы",
+    "name_en": "Watches",
+    "name_zh": "手表"
+  },
+  {
+    "id": "KidsJewelry",
+    "name": "Детские украшения",
+    "name_en": "Children's Jewelry",
+    "name_zh": "儿童首饰"
+  },
+  {
+    "id": "CufflinksAndClips",
+    "name": "Запонки и зажимы",
+    "name_en": "Cufflinks and Clips",
+    "name_zh": "袖扣与领带夹"
+  },
+  {
+    "id": "Souvenirs",
+    "name": "Сувениры",
+    "name_en": "Souvenirs",
+    "name_zh": "纪念品"
+  },
+  {
+    "id": "HairAccessories",
+    "name": "Аксессуары для волос",
+    "name_en": "Hair Accessories",
+    "name_zh": "发饰"
+  },
+  {
+    "id": "ReligiousJewelry",
+    "name": "Религиозные украшения",
+    "name_en": "Religious Jewelry",
+    "name_zh": "宗教饰品"
+  }
+]

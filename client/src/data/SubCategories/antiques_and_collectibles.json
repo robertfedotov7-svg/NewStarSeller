@@ -1,0 +1,74 @@
+[
+  {
+    "id": "Collecting",
+    "name": "Коллекционирование",
+    "name_en": "Collecting",
+    "name_zh": "收藏与收藏品"
+  },
+  {
+    "id": "PaintingAndGraphics",
+    "name": "Живопись и графика",
+    "name_en": "Painting and Graphics",
+    "name_zh": "绘画与图形艺术"
+  },
+  {
+    "id": "TablewareAndUtensils",
+    "name": "Посуда и утварь",
+    "name_en": "Tableware and Utensils",
+    "name_zh": "餐具与器皿"
+  },
+  {
+    "id": "MilitaryHistoryItems",
+    "name": "Предметы военной истории",
+    "name_en": "Military History Items",
+    "name_zh": "军事历史物品"
+  },
+  {
+    "id": "InteriorItems",
+    "name": "Предметы интерьера",
+    "name_en": "Interior Items",
+    "name_zh": "室内装饰品"
+  },
+  {
+    "id": "HouseholdItems",
+    "name": "Предметы быта",
+    "name_en": "Household Items",
+    "name_zh": "生活起居用品"
+  },
+  {
+    "id": "JewelryAndOrnaments",
+    "name": "Украшения",
+    "name_en": "Jewelry and Ornaments",
+    "name_zh": "饰品与装点"
+  },
+  {
+    "id": "Wristwatches",
+    "name": "Часы наручные",
+    "name_en": "Wristwatches",
+    "name_zh": "手腕表"
+  },
+  {
+    "id": "Stationery",
+    "name": "Канцелярия",
+    "name_en": "Stationery",
+    "name_zh": "文具"
+  },
+  {
+    "id": "DevicesAndInstruments",
+    "name": "Приборы и инструменты",
+    "name_en": "Devices and Instruments",
+    "name_zh": "仪器与工具"
+  },
+  {
+    "id": "Haberdashery",
+    "name": "Галантерея",
+    "name_en": "Галантерея",
+    "name_zh": "日用百货与配饰"
+  },
+  {
+    "id": "SmokingAccessories",
+    "name": "Товары для курения",
+    "name_en": "Smoking Accessories",
+    "name_zh": "吸烟器具与用品"
+  }
+]

@@ -7,7 +7,6 @@ import {
     onAuthStateChanged,
     signOut
 } from 'firebase/auth';
-import {useRouter} from "next/navigation";
 
 // Описываем типы для нашего контекста
 interface AuthContextType {
@@ -35,7 +34,6 @@ export const AuthProvider = ({ children }: { children: ReactNode }) => {
         type: 'info' | 'confirm';
     }>({ isOpen: false, title: '', description: '', type: 'info' });
 
-
     useEffect(() => {
         // Подписываемся на изменения состояния авторизации Firebase
         const unsubscribe = onAuthStateChanged(auth, (currentUser) => {
@@ -55,6 +53,7 @@ export const AuthProvider = ({ children }: { children: ReactNode }) => {
             throw error;
         }
     };
+
 
     return (
         <AuthContext.Provider value={{ user, loading, logout,
